@@ -1,6 +1,7 @@
 # Aura
 ### Daily Reflection App
 <img width="381" height="676" alt="Screenshot 2026-02-02 at 3 08 28 PM" src="https://github.com/user-attachments/assets/05c1b27d-dabf-4317-9c0f-b108d1dc5cbd" />
+
 Aura is a minimal daily reflection application that generates an image, provided by Gemini, based on the user's location. 
 It contains a reflection statement and offers the user an opportunity to dialogue with a Chatbot via voice or text. 
 Deployed on Google Cloud Run at: https://aura-daily-reflection-898700652948.us-west1.run.app/
