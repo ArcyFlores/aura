@@ -1,0 +1,7 @@
+{
+  "name": "Aura: Daily Reflection",
+  "description": "A gentle, pixel-art inspired journaling companion for daily emotional grounding and quiet reflection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
